@@ -1,0 +1,16 @@
+{
+  "name": "Clouds Weather Pro",
+  "short_name": "Clouds",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#003366",
+  "theme_color": "#4da0ff",
+  "icons": [
+    {
+      "src": "https://animated-fluent-emoji.vercel.app/emojis/Cloud/512.gif",
+      "sizes": "512x512",
+      "type": "image/gif",
+      "purpose": "any maskable"
+    }
+  ]
+}
