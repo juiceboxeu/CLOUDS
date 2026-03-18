@@ -1,7 +1,7 @@
 {
   "name": "Clouds Weather Pro",
   "short_name": "Clouds",
-  "start_url": "index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#003366",
   "theme_color": "#4da0ff",
