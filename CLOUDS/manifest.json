@@ -7,9 +7,9 @@
   "theme_color": "#4da0ff",
   "icons": [
     {
-      "src": "https://animated-fluent-emoji.vercel.app/emojis/Cloud/512.gif",
+      "src": "https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/Cloud/3D/cloud_3d.png",
       "sizes": "512x512",
-      "type": "image/gif",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]
